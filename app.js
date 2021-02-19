@@ -11,7 +11,6 @@ todoList.addEventListener("click", deleteCheck);
 filterOption.addEventListener("change", filterTodo);
 
 //Functions
-
 function addTodo(event) {
      //Prevent form from submitting
     event.preventDefault();
